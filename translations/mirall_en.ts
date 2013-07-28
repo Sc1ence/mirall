@@ -889,7 +889,7 @@
     </message>
     <message>
         <location filename="../src/mirall/owncloudsetupwizard.cpp" line="384"/>
-        <source>creating folder on ownCloud: %1</source>
+        <source>creating folder on FileGo: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -998,7 +998,7 @@
     </message>
     <message>
         <location filename="../src/mirall/owncloudwizard.cpp" line="468"/>
-        <source>ownCloud folder &lt;i&gt;%1&lt;/i&gt; is synced to local folder &lt;i&gt;%2&lt;/i&gt;</source>
+        <source>FileGo folder &lt;i&gt;%1&lt;/i&gt; is synced to local folder &lt;i&gt;%2&lt;/i&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1359,7 +1359,7 @@ Are you sure you want to perform this operation?</source>
     <message>
         <location filename="../src/mirall/owncloudsetuppage.ui" line="147"/>
         <location filename="../src/mirall/owncloudsetuppage_ng.ui" line="270"/>
-        <source>Enter the url of the ownCloud you want to connect to (without http or https).</source>
+        <source>Enter the url of the FileGo you want to connect to (without http or https).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1380,7 +1380,7 @@ Are you sure you want to perform this operation?</source>
     <message>
         <location filename="../src/mirall/owncloudsetuppage.ui" line="85"/>
         <location filename="../src/mirall/owncloudsetuppage_ng.ui" line="296"/>
-        <source>Enter the ownCloud username.</source>
+        <source>Enter the FileGo username.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1391,7 +1391,7 @@ Are you sure you want to perform this operation?</source>
     <message>
         <location filename="../src/mirall/owncloudsetuppage.ui" line="102"/>
         <location filename="../src/mirall/owncloudsetuppage_ng.ui" line="325"/>
-        <source>Enter the ownCloud password.</source>
+        <source>Enter the FileGo password.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1560,7 +1560,7 @@ Are you sure you want to perform this operation?</source>
     <name>ownCloudTheme</name>
     <message>
         <location filename="../src/mirall/owncloudtheme.cpp" line="103"/>
-        <source>If you don&apos;t have an ownCloud server yet, see &lt;a href=&quot;https://owncloud.com&quot;&gt;owncloud.com&lt;/a&gt; for more info.</source>
+        <source>If you don&apos;t have an FileGo server yet, see &lt;a href=&quot;https://owncloud.com&quot;&gt;owncloud.com&lt;/a&gt; for more info.</source>
         <comment>Top text in setup wizard. Keep short!</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -1569,7 +1569,7 @@ Are you sure you want to perform this operation?</source>
     <name>ownCloudTheme</name>
     <message>
         <location filename="../src/mirall/owncloudtheme.cpp" line="103"/>
-        <source>If you don&apos;t have an ownCloud server yet, see &lt;a href=&quot;https://owncloud.com&quot;&gt;owncloud.com&lt;/a&gt; for more info.</source>
+        <source>If you don&apos;t have an FileGo server yet, see &lt;a href=&quot;https://owncloud.com&quot;&gt;owncloud.com&lt;/a&gt; for more info.</source>
         <comment>Top text in setup wizard. Keep short!</comment>
         <translation type="unfinished"></translation>
     </message>
@@ -1583,7 +1583,7 @@ Are you sure you want to perform this operation?</source>
     </message>
     <message>
         <location filename="../src/mirall/owncloudtheme.cpp" line="65"/>
-        <source>&lt;p&gt;&lt;b&gt;%1 Client Version %2&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Authors&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;mailto:freitag@owncloud.com&quot;&gt;Klaas Freitag&lt;/a&gt;, ownCloud, Inc.&lt;br&gt;&lt;a href=&quot;mailto:danimo@owncloud.com&quot;&gt;Daniel Molkentin&lt;/a&gt;, ownCloud, Inc.&lt;br&gt;&lt;br&gt;Based on Mirall by Duncan Mac-Vicar P.&lt;/p&gt;&lt;p&gt;For more information visit &lt;a href=&quot;%3&quot;&gt;%4&lt;/a&gt;.&lt;/p&gt;%7</source>
+        <source>&lt;p&gt;&lt;b&gt;%1 Client Version %2&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Authors&lt;/b&gt;&lt;br&gt;&lt;a href=&quot;mailto:freitag@owncloud.com&quot;&gt;Klaas Freitag&lt;/a&gt;, FileGo, Inc.&lt;br&gt;&lt;a href=&quot;mailto:danimo@owncloud.com&quot;&gt;Daniel Molkentin&lt;/a&gt;, FileGo, Inc.&lt;br&gt;&lt;br&gt;Based on Mirall by Duncan Mac-Vicar P.&lt;/p&gt;&lt;p&gt;For more information visit &lt;a href=&quot;%3&quot;&gt;%4&lt;/a&gt;.&lt;/p&gt;%7</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
